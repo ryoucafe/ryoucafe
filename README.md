@@ -1,1 +1,1 @@
-tf are u even supposed to put in here
+<h1><img src="assets/cafedance.gif" alt="cafe dance" style="height: 50px;"/> Hey! </h1>
