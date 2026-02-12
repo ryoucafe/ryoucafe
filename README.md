@@ -20,7 +20,7 @@ I try to do everything by myself without using LLMs, <br> if my code is not opti
 
 <img src="assets/ryoupresent.gif" alt="Cafe drink" width="200px" align="left" />
 
-<p style="text-align: right">
+<p align="right">
    PSU: <a href="https://www.bequiet.com/fr/powersupply/5906"> BEQUIET! SYSTEM POWER 11 750 W </a><br>
    RAM: 32gb DDR4 2667MHz (no name) <br>
    Graphic card: <a href="https://www.msi.com/Graphics-Card/GeForce-RTX-3060-VENTUS-2X-12G-OC">RTX 3060 12GB STRIXX</a> <br>
