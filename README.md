@@ -1,6 +1,5 @@
 #   About me (EN)
 
-<br>
 <h1><img src="assets/cafedance.gif" alt="Cafe dance" style="height: 30px;"/> Life:</h1>
 
 <img src="assets/cafedrink.gif" alt="Cafe drink" width="200px" align="right" />
@@ -15,7 +14,7 @@ I try to do everything by myself without using LLMs, <br> if my code is not opti
 </p>
 
 ---
-<br>
+
 <h1><img src="assets/ryoagree.gif" alt="Ryou agrees" style="height: 30px;"/> Computer specs:</h1>
 
 <img src="assets/ryoupresent.gif" alt="Cafe drink" width="200px" align="left" />
@@ -32,7 +31,7 @@ I try to do everything by myself without using LLMs, <br> if my code is not opti
 
 ---
 
-<br>
+
 <h1><img src="assets/cafepat.gif" alt="Cafe pat" style="height: 30px;"/> What I use: <img src="assets/rypat.gif" alt="Ryou pat" style="height: 30px;"></h1>
 
 <p>
@@ -45,7 +44,6 @@ Assets: <a href="https://github.com/blender/blender">Blender</a>, <a href="https
 
 ---
 
-<br>
 
 <h3 align=center>
 Thanks for reading my about me <br><br> </h3>
@@ -55,5 +53,5 @@ Thanks for reading my about me <br><br> </h3>
 </p>
 
 <h5 align=center>
-Contact: <a href="mailto:ryoucafe@icloud.com">ryoucafe@icloud.com</a><br><br> </h3>
+Contact: <a href="mailto:ryoucafe@icloud.com">ryoucafe@icloud.com</a></h3>
 
