@@ -10,7 +10,7 @@
  In my free time I enjoy drawing, cooking, playing bass and <a href="assets/hobbylist.md">much more</a>. <br>
  I love listening to music, <a href="https://anilist.co/user/Ryouuuo/">read or watch anime</a>.<br><br>
 I am mostly known on social medias as Ryou. <br>
-I try to do everything by myself without using LLMs, <br> if my code is not optimised or has problem <font color=#993c3c>please report it to me! </font> 
+I try to do everything by myself without using LLMs, <br> if my code is not optimised or has problem please report it to me!
 </p>
 
 ---
