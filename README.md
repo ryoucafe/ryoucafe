@@ -37,7 +37,6 @@ I try to do everything by myself without using LLMs, <br> if my code is not opti
 <p>
 Programming (in general): <a href="https://code.visualstudio.com/"> VS Code </a><br>
 Video Games: <a href="https://unity.com/">Unity</a>, <a href="https://github.com/godotengine/godot"> Godot</a>. <br>
-Softwares: Godot. <br>
 HID and microcontrollers: <a href="https://github.com/arduino/arduino-ide"> Arduino IDE</a>. <br>
 Assets: <a href="https://github.com/blender/blender">Blender</a>, <a href="https://github.com/LibreSprite/LibreSprite">Libresprite</a>, Photoshop
 </p>
