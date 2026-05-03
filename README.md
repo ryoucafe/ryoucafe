@@ -8,7 +8,7 @@
  I am an <a href="https://fr.wikipedia.org/wiki/Baccalaur%C3%A9at_sciences_et_technologies_de_l%27industrie_et_du_d%C3%A9veloppement_durable">STI2D</a> S.I.N student in highschool in France. <br>
  I mostly make programs for <a href="https://en.wikipedia.org/wiki/Microcontroller">microcontrollers</a>. <br>
  In my free time I enjoy drawing, cooking, playing bass and <a href="assets/hobbylist.md">much more</a>. <br>
- I love listening to music, <a href="https://anilist.co/user/Ryouuuo/">read or watch anime</a>.<br><br>
+ I love listening to music, <a href="https://anilist.co/user/ryoucafe/">read or watch anime</a>.<br><br>
 I am mostly known on social medias as Ryou. <br>
 I try to do everything by myself without using LLMs, <br> if my code is not optimised or has problem please report it to me!
 </p>
