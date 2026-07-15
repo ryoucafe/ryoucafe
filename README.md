@@ -4,7 +4,7 @@
 
 <img src="assets/cafedrink.gif" alt="Cafe drink" width="200px" align="right" />
 <p>
- I am 17yo and got interest in computers since 2020. <br>
+ I am 18yo and got interest in computers since 2020. <br>
  In my free time I enjoy drawing, cooking, playing bass and <a href="assets/hobbylist.md">much more</a>. <br>
  I love listening to music, <a href="https://anilist.co/user/ryoucafe/">read or watch anime</a>.<br><br>
 I am mostly known on social medias as Ryou. <br>
