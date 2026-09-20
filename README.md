@@ -34,9 +34,10 @@ I try to do everything by myself without using LLMs, <br> if my code is not opti
 
 <p>
 Programming (in general): <a href="https://zed.dev/"> Zed </a><br>
-Video Games: <a href="https://unity.com/">Unity</a>, <a href="https://github.com/godotengine/godot"> Godot</a>. <br>
-HID and microcontrollers: <a href="https://github.com/arduino/arduino-ide"> Arduino IDE</a>. <br>
-Assets: <a href="https://github.com/blender/blender">Blender</a>, <a href="https://github.com/LibreSprite/LibreSprite">Libresprite</a>, Photoshop
+Video Games: <a href="https://unity.com/">Unity</a>, <a href="https://github.com/godotengine/godot">Godot</a>. <br>
+HID and microcontrollers: <a href="https://github.com/arduino/arduino-ide">Arduino-cli</a>. <br>
+Assets: <a href="https://github.com/blender/blender">Blender</a>, <a href="https://github.com/LibreSprite/LibreSprite">Libresprite</a>
+Editing (video and photo): <a href="https://www.affinity.studio/">Affinity</a>, <a href="https://cavalry.studio/en/">Cavalry</a> and <a href="https://www.blackmagicdesign.com/products/davinciresolve">Davinci Resolve</a>
 </p>
 
 ---
