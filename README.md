@@ -51,7 +51,7 @@ Thanks for reading my about me <br><br> </h3>
 </p>
 
 <h5 align=center>
-Contact: <a href="mailto:ryoucafe@icloud.com">ryoucafe1@icloud.com</a></h3>
+Contact: <a href="mailto:ryoucafe@icloud.com">contact@ryou.cafe</a></h3>
 
 <p align="center">
 <img src="https://count.getloli.com/get/@ryoucafe?theme=gelbooru" alt="Counter" width="500px" style="text-align:center" />
